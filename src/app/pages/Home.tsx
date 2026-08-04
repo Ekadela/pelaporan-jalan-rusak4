@@ -31,8 +31,8 @@ export function Home() {
   const recentReports = [
     {
       id: "RPT001",
-      title: "Jalan Berlubang di Jl. Sudirman",
-      location: "Jl. Sudirman No. 45, Jakarta Pusat",
+      title: "Jalan Berlubang di Jl. Ketintang",
+      location: "Jl. Ketintan, Wonokromo, Surabaya",
       time: "2 jam yang lalu",
       status: "Laporan Terkirim",
       priority: 85,
@@ -42,8 +42,8 @@ export function Home() {
     },
     {
       id: "RPT002",
-      title: "Aspal Retak di Jl. Gatot Subroto",
-      location: "Jl. Gatot Subroto KM 5, Jakarta Selatan",
+      title: "Jalan Retak di Jl. Raya Rungkut Tengah",
+      location: "Jl. Raya Rungkut Tengah No. 21, Rungkut Tengah, Gn. Anyar, Surabaya",
       time: "5 jam yang lalu",
       status: "Laporan Sedang Ditinjau dan Diproses",
       priority: 65,
@@ -53,8 +53,8 @@ export function Home() {
     },
     {
       id: "RPT003",
-      title: "Jalan Amblas di Jl. Thamrin",
-      location: "Jl. M.H. Thamrin, Jakarta Pusat",
+      title: "Jalan Retak di Jl. Raya Kendangsari Industri",
+      location: "Jl. Raya Kendangsari Industri, No.41, Tenggilis Mejoyo, Surabay",
       time: "1 hari yang lalu",
       status: "Jalan Telah Diperbaiki",
       priority: 95,
